@@ -1,0 +1,169 @@
+{
+    "drops": [
+        {
+            "id": 1,
+            "name": "Axe of Raah",
+            "monsters": ["Sikuku Elite Fighter", "Venerable Snapper"]
+        },
+        {
+            "id": 2,
+            "name": "Black Monster Axe",
+            "monsters": ["Ramesses Robo Guard", "Nakhtmin Zoombi Guard", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 3,
+            "name": "Blade Hunter Sword",
+            "monsters": ["Nakhtmin Zoombi Guard", "Giant Fiery Snapper", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 4,
+            "name": "Bloom Wand",
+            "monsters": ["Item Removido do Jogo. :("]
+        },
+        {
+            "id": 5,
+            "name": "Blue Iron Bow",
+            "monsters": ["Saboten", "Rakapuska", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 6,
+            "name": "Chimp Napsack(Backpack)",
+            "monsters": ["Doonga Leader"]
+        },
+        {
+            "id": 7,
+            "name": "Crescent Moon",
+            "monsters": ["Cursed Ant Vagabond"]
+        },
+        {
+            "id": 8,
+            "name": "Cross Bones",
+            "monsters": ["Cursed Ant Vagabond"]
+        },
+        {
+            "id": 9,
+            "name": "Dual Samurai",
+            "monsters": ["Ramesses Robo Hunter", "Nakhtmin Zoombi Hunter"]
+        },
+        {
+            "id": 10,
+            "name": "Emperor Plate Mail",
+            "monsters": ["Saboten", "Nakhtmin Zoombi Hunte"]
+        },
+        {
+            "id": 11,
+            "name": "Extraordinary Cannon",
+            "monsters": ["Selkit Mage"]
+        },
+        {
+            "id": 12,
+            "name": "Firelock",
+            "monsters": ["Moss Golem"]
+        },
+        {
+            "id": 13,
+            "name": "Future Bow Gun",
+            "monsters": ["Ramesses Robo Hunter", "Nakhtmin Zoombi Hunter", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 14,
+            "name": "Hero Sword",
+            "monsters": ["Nakhtmin Zoombi Hunter", "Selkit Mage", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 15,
+            "name": "Iron Bug Knuckle",
+            "monsters": ["Saboten Zyo", "Crowned Asper", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 16,
+            "name": "Isis Staff",
+            "monsters": ["Rakapuska", "Nahktmin Zoombi Guard", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 17,
+            "name": "Kalima Bow Gun",
+            "monsters": ["Barbed Snapper Brute"]
+        },
+        {
+            "id": 18,
+            "name": "Lion Canon",
+            "monsters": ["Fiery Snapper Captain"]
+        },
+        {
+            "id": 19,
+            "name": "Militar Rifle",
+            "monsters": ["Sikuku Captain", "Venerable Snapper"]
+        },
+        {
+            "id": 20,
+            "name": "Mythka MGA-420 Bow",
+            "monsters": ["Mummy Cracker"]
+        },
+        {
+            "id": 21,
+            "name": "Neo Rifle",
+            "monsters": ["Desert Asper"]
+        },
+        {
+            "id": 22,
+            "name": "Obsidian Katar",
+            "monsters": ["Item removido do jogo"]
+        },
+        {
+            "id": 23,
+            "name": "Oriental Dragon Bow",
+            "monsters": ["Fiery Snapper Leader"]
+        },
+        {
+            "id": 24,
+            "name": "Orphe Staff",
+            "monsters": ["Item removido do jogo"]
+        },
+        {
+            "id": 25,
+            "name": "Osiris Golden Axe",
+            "monsters": ["Mummy Ranger"]
+        },
+        {
+            "id": 26,
+            "name": "Purple Spear",
+            "monsters": ["Saboten", "Crowned Asper Commander", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 27,
+            "name": "Rock Launcher",
+            "monsters": ["Cursed Ant Vagabond"]
+        },
+        {
+            "id": 28,
+            "name": "Scorpion Claw",
+            "monsters": ["Moss Golem"]
+        },
+        {
+            "id": 29,
+            "name": "Triple Cannon",
+            "monsters": ["Sandfish", "Selkit Mage", "Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 30,
+            "name": "Winter Barrel",
+            "monsters": ["Não está no jogo"]
+        },
+        {
+            "id": 31,
+            "name": "Wolverine katar",
+            "monsters": ["Anubis Berserker"]
+        },
+        {
+            "id": 32,
+            "name": "Birum Plate Backshield",
+            "monsters": ["Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        },
+        {
+            "id": 33,
+            "name": "Orlean Backshield",
+            "monsters": ["Poisontail Scorpio King", "Prehistoric Mastyx King", "Fearsome Terrasaurus King"]
+        }
+    ]
+}
